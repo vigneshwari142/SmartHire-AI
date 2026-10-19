@@ -1,0 +1,47 @@
+{
+  "candidateName": "Sarah Johnson",
+  "email": "sarah.johnson@email.com",
+  "phone": "(555) 234-5678",
+  "location": "San Francisco, CA",
+  "experienceYears": 5,
+  "educationLevel": "Bachelor of Science in Computer Science",
+  "extractedSkills": [
+    "React.js", "TypeScript", "Next.js", "Node.js", "PostgreSQL",
+    "AWS", "Docker", "Kubernetes", "Redis", "GraphQL",
+    "MongoDB", "CI/CD", "Git", "REST API", "Agile"
+  ],
+  "scores": {
+    "overall": 88,
+    "skills": 92,
+    "experience": 87,
+    "education": 90,
+    "keywords": 83,
+    "ats": 85
+  },
+  "recommendation": "Strong Fit",
+  "matchedSkills": [
+    "React", "TypeScript", "Node.js", "PostgreSQL",
+    "AWS", "Docker", "Git", "REST API"
+  ],
+  "missingSkills": [],
+  "extraSkills": ["GraphQL", "Redis", "Kubernetes", "Next.js"],
+  "summary": "Outstanding full stack candidate matching all 8 required skills with 5+ years progressive experience and AWS certification. Demonstrated quantified impact (45% performance improvement, 2M+ user scale) and leadership experience mentoring junior engineers. The candidate's open source contributions (1.2k GitHub stars) and AWS certifications make this a top-tier application.",
+  "strengths": [
+    "100% required skill match — all 8 skills present including React, TypeScript, Node.js, PostgreSQL, AWS, Docker, Git, REST API",
+    "5+ years of progressive full-stack experience with clear growth from Engineer to Senior Engineer",
+    "AWS Certified Solutions Architect — directly validates cloud infrastructure competency",
+    "Quantified achievements: 45% API performance improvement, 2M+ users served, $2M+ transactions processed",
+    "Active open source contributor with 1.2k GitHub stars — demonstrates community engagement and code quality"
+  ],
+  "improvements": [
+    "Add more specific system design examples or architecture diagrams to the application",
+    "Include metrics for team leadership impact (number of PRs reviewed, mentorship outcomes)",
+    "Standardize date format throughout resume for better ATS parsing"
+  ],
+  "experienceAnalysis": "5+ years of full-stack development directly matching the 3-5 year requirement. Experience spans from startup to scale-up environments with demonstrated ability to architect systems for 2M+ users. Leadership experience mentoring junior engineers is a significant bonus for a senior role.",
+  "educationAnalysis": "BS Computer Science from UC Berkeley with 3.7 GPA exceeds the bachelor's requirement. Strong academic foundation complemented by two industry-recognized AWS certifications.",
+  "atsIssues": [
+    "Minor: Standardize date format (some entries use Jan 2022, others use (2019)) for consistent ATS parsing",
+    "Consider adding a dedicated 'Summary' section label for ATS compatibility"
+  ]
+}

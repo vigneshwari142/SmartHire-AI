@@ -1,0 +1,65 @@
+SARAH JOHNSON
+Email: sarah.johnson@email.com | Phone: (555) 234-5678 | LinkedIn: linkedin.com/in/sarahjohnson
+Location: San Francisco, CA | GitHub: github.com/sarahjohnson
+
+─────────────────────────────────────────────
+PROFESSIONAL SUMMARY
+─────────────────────────────────────────────
+Full-Stack Software Engineer with 5+ years of experience building scalable web applications
+and microservices. AWS Certified Solutions Architect with a track record of improving system
+performance by 40–60%. Passionate about clean code, open source, and Agile engineering.
+
+─────────────────────────────────────────────
+TECHNICAL SKILLS
+─────────────────────────────────────────────
+Frontend:   React.js, TypeScript, Next.js, GraphQL, Redux, HTML5, CSS3, Tailwind CSS
+Backend:    Node.js, Express.js, REST APIs, GraphQL APIs, Python (Flask)
+Databases:  PostgreSQL, MongoDB, Redis, Elasticsearch
+Cloud/DevOps: AWS (EC2, S3, Lambda, RDS, CloudFront), Docker, Kubernetes, CI/CD, GitHub Actions
+Tools:      Git, Jira, Figma, Webpack, Jest, Cypress
+
+─────────────────────────────────────────────
+WORK EXPERIENCE
+─────────────────────────────────────────────
+Senior Full Stack Engineer — TechCorp Inc., San Francisco, CA   (Jan 2022 – Present)
+• Led development of a React/TypeScript SPA serving 2M+ active users
+• Architected microservices backend using Node.js + PostgreSQL on AWS ECS
+• Improved API response time by 45% through Redis caching and query optimization
+• Mentored 4 junior engineers; led weekly code review sessions
+• Implemented CI/CD pipeline (GitHub Actions + Docker) reducing deploy time by 70%
+
+Full Stack Engineer — StartupXYZ, Remote                        (Jun 2019 – Dec 2021)
+• Built REST API backend with Node.js + Express serving 500K+ requests/day
+• Developed React dashboards with real-time WebSocket updates
+• Migrated monolith to microservices architecture on AWS (EKS, RDS, S3)
+• Integrated Stripe payment processing handling $2M+ monthly transactions
+
+─────────────────────────────────────────────
+EDUCATION
+─────────────────────────────────────────────
+Bachelor of Science in Computer Science — University of California, Berkeley  (2019)
+GPA: 3.7/4.0 | Dean's List (2017, 2018, 2019)
+
+─────────────────────────────────────────────
+CERTIFICATIONS
+─────────────────────────────────────────────
+• AWS Certified Solutions Architect – Associate (2023)
+• AWS Certified Developer – Associate (2022)
+• TypeScript Advanced Certification — Udemy (2021)
+
+─────────────────────────────────────────────
+PROJECTS & OPEN SOURCE
+─────────────────────────────────────────────
+react-table-toolkit (GitHub: 1.2k ⭐) — Open-source React component library for data tables
+• Built with TypeScript, supports sorting, filtering, pagination, and virtualization
+
+E-Commerce Platform — Personal Project
+• Full-stack app: Next.js + Node.js + PostgreSQL + AWS + Stripe + Docker
+• Deployed on AWS with auto-scaling EC2 instances and CloudFront CDN
+
+─────────────────────────────────────────────
+ACHIEVEMENTS
+─────────────────────────────────────────────
+• Employee of the Quarter — TechCorp Inc., Q3 2023
+• Hackathon Winner — SF TechHacks 2022 (1st place, AI category)
+• Speaker — ReactSF Meetup (200+ attendees): "TypeScript Best Practices"
